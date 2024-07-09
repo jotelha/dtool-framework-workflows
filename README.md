@@ -6,8 +6,8 @@ Copyright 2022 Johannes Hoermann, johannes.hoermann@imtek.uni-freiburg.de
 
 This repository provides reusable CI workflows for components of the dtool ecosystem, i.e. for
 
-* `livMatS/dserver` [on dockerhub](https://hub.docker.com/r/jotelha/dserver), [on github](https://github.com/livMatS/dserver-container-image)
-* `livMatS/dserver-client` [on dockerhub](https://hub.docker.com/r/jotelha/dserver-client), [on github](https://github.com/livMatS/dserver-client-container-image)
+* `jotelha/dserver` [on dockerhub](https://hub.docker.com/r/jotelha/dserver), [on github](https://github.com/livMatS/dserver-container-image)
+* `jotelha/dtool` [on dockerhub](https://hub.docker.com/r/jotelha/dtool), [on github](https://github.com/livMatS/dtool-container-image)
 * `livMatS/dtool-token-generator-ldap`[on dockerhub](https://hub.docker.com/r/jotelha/dtool-token-generator-ldap), [on github](https://github.com/livMatS/dtool-token-generator-ldap-container-image)
 * https://github.com/livMatS/dserver-container-composition
 
